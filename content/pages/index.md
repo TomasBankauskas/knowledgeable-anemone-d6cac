@@ -84,6 +84,7 @@ sections:
         justifyContent: center
         borderColor: border-primary
         borderRadius: medium
+        borderWidth: 5
       title:
         fontWeight: '700'
         fontStyle: normal
