@@ -85,6 +85,7 @@ sections:
         borderColor: border-primary
         borderRadius: medium
         borderWidth: 5
+        borderStyle: dotted
       title:
         fontWeight: '700'
         fontStyle: normal
