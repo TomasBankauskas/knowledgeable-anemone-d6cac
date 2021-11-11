@@ -2,7 +2,7 @@
     "type": "Config",
     "header": {
         "headerVariant": "variant-a",
-        "primaryColors": "colors-d",
+        "primaryColors": "colors-c",
         "secondaryColors": "colors-c",
         "title": "Agency",
         "isTitleVisible": false,
