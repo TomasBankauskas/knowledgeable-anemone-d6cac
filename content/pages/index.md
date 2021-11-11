@@ -83,6 +83,7 @@ sections:
           - pl-4
         justifyContent: center
         borderColor: border-primary
+        borderRadius: medium
       title:
         fontWeight: '700'
         fontStyle: normal
